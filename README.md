@@ -14,4 +14,4 @@
 </p>
 
 # 🖥️ Tech Skills: 
-[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,html,css,javascript,react,cpp,mongodb,mysql,vscode,eclipse,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,html,css,javascript,react,cpp,mysql,vscode,eclipse,git)](https://skillicons.dev)
