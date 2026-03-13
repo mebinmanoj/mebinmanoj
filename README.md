@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently in **my 3rd Year of Computer Science**
 - 
-- 👀 I’m interested in Software Engineering & CyberSecurity
+- 👀 I’m interested in Software Engineering
 - 
 - 📫 How to reach me: **mebinmanoj77@gmail.com**
 
